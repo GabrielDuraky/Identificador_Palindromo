@@ -36,7 +36,7 @@ Utilizei o algoritmo clássico de **dois ponteiros** (`left` e `right`) com `Rea
 | Oi | Não é um palíndromo |
 
 ## Decisões técnicas
-• Uso de ReadOnlySpan<char> para melhor performance.
-• char.ToLowerInvariant() para correto tratamento de Unicode.
-• Tratamento robusto de null, strings vazias e espaços.
-• loop interativo no console para facilitar testes.
+- Uso de ReadOnlySpan<char> para melhor performance.
+- char.ToLowerInvariant() para correto tratamento de Unicode.
+- Tratamento robusto de null, strings vazias e espaços.
+- loop interativo no console para facilitar testes.
