@@ -21,7 +21,7 @@ Utilizei o algoritmo clássico de **dois ponteiros** (`left` e `right`) com `Rea
    dotnet run
 
 ### Opção 2 - localmente
-1. git clone https://github.com/seu-usuario/identificador_palindromo.git
+1. git clone https://github.com/GabrielDuraky/identificador_palindromo.git
 2. cd identificador_palindromo
 3. dotnet run
 
